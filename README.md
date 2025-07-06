@@ -78,30 +78,30 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
         </a>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" />
@@ -109,7 +109,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -118,10 +118,10 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
@@ -153,10 +153,10 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
