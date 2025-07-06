@@ -84,10 +84,10 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Nodejs" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Nodejs" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
@@ -145,10 +145,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       </td>
       <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="bootstrap" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="jQuery" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
