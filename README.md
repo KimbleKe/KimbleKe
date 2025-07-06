@@ -90,7 +90,7 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
@@ -113,9 +113,6 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
@@ -126,6 +123,9 @@
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
