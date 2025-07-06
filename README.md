@@ -121,7 +121,7 @@
         <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
