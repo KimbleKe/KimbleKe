@@ -54,10 +54,10 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
       </td>
     </tr>
     <tr>
@@ -79,17 +79,14 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48"  />
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      </td>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="bootstrap" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      </td>
-      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       </td>
     </tr>
     <tr>
