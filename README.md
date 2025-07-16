@@ -99,14 +99,14 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"  />
       </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48"/>
+      </td>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48"/>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
