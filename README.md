@@ -36,16 +36,16 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Docker" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="jQuery" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="jQuery" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="48" height="48" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
