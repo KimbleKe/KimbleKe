@@ -50,18 +50,18 @@
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="48" height="48" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/claudecode" alt="Claude Code" width="48" height="48" /></td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg"
-       alt="OpenAI Codex" width="48" height="48" />
-</td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/x" alt="Grok" width="48" height="48" /></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/qwen" alt="Qwen" width="48" height="48" /></td>
 <td align="center" width="96">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/ChatGPT-Logo.svg"
        alt="ChatGPT" width="48" height="48" />
 </td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg"
+       alt="OpenAI Codex" width="48" height="48" />
+</td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="48" height="48" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/qwen" alt="Qwen" width="48" height="48" /></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/claudecode" alt="Claude Code" width="48" height="48" /></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/x" alt="Grok" width="48" height="48" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="48" height="48" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48" /></td>
 </tr>
