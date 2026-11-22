@@ -121,3 +121,37 @@
     </tr>
   </table>
 </div>
+
+## 🤖 AI & Coding Assistants
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/claudecode" alt="Claude Code" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai" alt="OpenAI Codex" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/grok.png" alt="Grok" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48" />
+    </td>
+  </tr>
+</table>
