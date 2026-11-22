@@ -61,7 +61,7 @@
        alt="ChatGPT" width="48" height="48" />
 </td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="48" height="48" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="48" height="48" /></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/qwen" alt="Qwen" width="48" height="48" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="48" height="48" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="48" height="48" /></td>
 </tr>
